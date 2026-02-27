@@ -1,0 +1,20 @@
+{
+    "title": "Programming: Iterables",
+    "slug": "programming-iterables-introduction",
+    "description": "Introduces iterable objects as values that can produce items one by one, and explains why iterables are central to looping.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming"
+    ],
+    "duration": 1,
+    "prerequisites": [
+        "programming-lists-arrays",
+        "programming-strings"
+    ],
+    "related": [
+        "programming-for-loops-introduction",
+        "python-for-loops-over-iterables"
+    ]
+}
