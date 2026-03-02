@@ -14,7 +14,6 @@
         "programming-strings"
     ],
     "related": [
-        "programming-for-loops-introduction",
-        "python-for-loops-over-iterables"
+        "programming-for-loops"
     ]
 }
